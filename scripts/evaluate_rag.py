@@ -39,7 +39,7 @@ class Evaluator:
 
     @staticmethod
     def get_dataset():
-        test_set = pd.read_csv("../data/test_set.csv")
+        test_set = pd.read_csv("../.gradio/test_set.csv")
 
         questions = test_set["question"].tolist()
         ground_truths = test_set["ground_truth"].tolist()
