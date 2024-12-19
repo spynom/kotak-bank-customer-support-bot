@@ -1,0 +1,5 @@
+setup.py
+src/SpynomScript.egg-info/PKG-INFO
+src/SpynomScript.egg-info/SOURCES.txt
+src/SpynomScript.egg-info/dependency_links.txt
+src/SpynomScript.egg-info/top_level.txt
